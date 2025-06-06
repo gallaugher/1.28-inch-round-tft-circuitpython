@@ -16,7 +16,7 @@ Display 	->	Pico Pin
 
 <img width="800" alt="wiring diagram" src="https://github.com/user-attachments/assets/4485f470-5ce0-41c5-9468-647d5afeb9ed" />
 
-[![GC9A01A Display Demo](https://img.youtube.com/vi/zZ6A1ND1vQ0/maxresdefault.jpg)](https://youtu.be/zZ6A1ND1vQ0)
+[![Watch the video](https://img.youtube.com/vi/zZ6A1ND1vQ0/maxresdefault.jpg)](https://youtu.be/zZ6A1ND1vQ0)
 
 I wired this on a KB2040 for our "Display of Displays" at school using this scheme:
 
