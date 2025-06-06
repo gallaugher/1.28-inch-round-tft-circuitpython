@@ -27,6 +27,8 @@ dw, dh = 240,240  # display dimensions
 # load our eye and iris bitmaps
 eyeball_bitmap, eyeball_pal = adafruit_imageload.load("imgs/eye0_ball2.bmp")
 iris_bitmap, iris_pal = adafruit_imageload.load("imgs/eye0_iris0.bmp")
+# eyeball_bitmap, eyeball_pal = adafruit_imageload.load("imgs/Lizard_Sclera.bmp")
+# iris_bitmap, iris_pal = adafruit_imageload.load("imgs/Lizard_Iris_White.bmp")
 iris_pal.make_transparent(0)  # palette color #0 is our transparent background
 
 # compute or declare some useful info about the eyes
