@@ -5,13 +5,15 @@
 # https://github.com/todbot/CircuitPython_GC9A01_demos
 # Update pins for your board & be sure you have the imgs folder with eyeball images
 # on your CIRCUITPY board
+# A tutorial on wiring up the build & a descriptive walk through of this code is in the playlist at:
+# https://bit.ly/pico-school on the channel: YouTube.com/@BuildWithProfG
 import board, displayio, terminalio, busio, time, adafruit_imageload, math, random
 from adafruit_gc9a01a import GC9A01A
 
 # Release any existing displays
 displayio.release_displays()
 
-# wiring for KB2040. Using a different board? Modify your pins, below
+# wiring for Raspberry Pi Pico. Using a different board? Modify your pins, below
 tft0_clk  = board.GP18
 tft0_mosi = board.GP19
 tft_L0_dc  = board.GP21
