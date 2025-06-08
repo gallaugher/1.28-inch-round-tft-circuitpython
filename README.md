@@ -29,4 +29,7 @@ Display 	->	KB2040 Pin
 - CS	Chip Select ->	GP5	🟣 Purple,	Selects the display on SPI bus
 - RST	Reset	-> GP6	🟠 Orange
 
+And this is what the dial code looks like - potentiometer moves the dial:
+![IMG_0704](https://github.com/user-attachments/assets/c0a04bd5-5d40-4120-8552-c2d3bed3cf78)
+
 
